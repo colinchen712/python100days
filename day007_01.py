@@ -1,0 +1,1 @@
+word_list = ["chocolate","firework","bomb","win","chair","watermelon","yellow","fish","milk","pig","cat","computer","hangman","google","amazing","chicken"]
